@@ -1,3 +1,4 @@
+print("Введите номер места ")
 mesto=int(input())
 if mesto in range(1,55):
     if mesto in range(2,37) and mesto%2==0:
